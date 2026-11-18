@@ -1,0 +1,13 @@
+# Fichiers générés par .NET
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+# Configuration locale des IDE
+.idea/
+.vs/
+*.user
+*.suo
+
+# Métadonnées macOS
+.DS_Store
